@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Socola",
     introTitle: 'Xin Chào',
-    introDesc: `Valentine này cậu đã có 1 nửa thương hay chưa? Nếu có rùi thì cậu tặng gì cho nửa đó chưa nhỉ?`,
+    introDesc: `Valentine này cậu đã có một nửa thương hay chưa!!!`,
     btnIntro: '^^HiHi^^',
     title: 'Socola mang ý nghĩa quyền lực cũng như sức mạnh, tượng trưng cho thứ tình cảm giàu cảm xúc, lãng mạn và tình yêu.',
     desc: 'Mua socola tặng cho nửa kia đi nha!!!!',
