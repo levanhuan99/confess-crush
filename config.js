@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Socola",
-    introTitle: 'Diệu Diệu',
+    introTitle: 'Xin Chào',
     introDesc: `Valentine này cậu đã có 1 nửa thương hay chưa? Nếu có rùi thì cậu tặng gì cho nửa đó chưa nhỉ?`,
     btnIntro: '^^HiHi^^',
     title: 'Socola mang ý nghĩa quyền lực cũng như sức mạnh, tượng trưng cho thứ tình cảm giàu cảm xúc, lãng mạn và tình yêu.',
@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Vì nó rất đẹp đúng khum 😘😘',
     messDesc: 'Tối mình gửi cậu nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://github.com/levanhuan99/confess-crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
