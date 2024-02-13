@@ -1,18 +1,15 @@
 const CONFIG = {
     titleWeb: "Diệu Diệu",
     introTitle: 'Diệu Diệu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Valentine này cậu đã có 1 nửa thương hay chưa? Nếu có rùi thì cậu tặng gì cho nửa đó chưa nhỉ?`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng cậu đã yêu nửa kia ngay từ cái nhìn đầu tiên 🥰.Nếu vậy cậu nên mua socola tặng cho 1 nửa yêu thương đi nhé.',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Socola mang ý nghĩa quyền lực cũng như sức mạnh, tượng trưng cho thứ tình cảm giàu cảm xúc, lãng mạn và tình yêu.',
+    desc: 'Mua socola tặng cho nửa kia đi nha!!!!',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Có rất nhìu người cũng có socola mà bạn lại chọn của mình??? <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Của cậu tuyệt vời nhất <33333333',
     mess: 'Mình biết mà 🥰. Vì nó rất đẹp đúng khum 😘😘',
     messDesc: 'Tối nay 7h, mình gửi cậu nha.',
     btnAccept: 'Okiiiii lun <3',
